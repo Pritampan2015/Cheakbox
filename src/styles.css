@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.multiselect-form {
+  border: 1px solid #000000;
+  padding: 20px;
+  border-radius: 5px;
+  max-width: 300px;
+  background-color: rgb(199, 235, 166);
+}
+
+.checkbox-item {
+  margin-bottom: 15px;
+}
+
+label {
+  margin-left: 50px;
+}
